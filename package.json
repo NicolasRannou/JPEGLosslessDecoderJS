@@ -9,7 +9,7 @@
   "devDependencies": {
     "mocha": "*",
     "browserify": "*",
-    "uglifyjs": "*",
+    "uglify-js": "*",
     "jsdoc-to-markdown": "*"
   },
   "scripts": {
